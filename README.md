@@ -1,7 +1,7 @@
 # App-Dev
 My First Repository
 
-## My Favorite Movie: Attack on Titan
+## My First and Favorite Anime: "Attack on Titan"
 
 ### Overview
 *Attack on Titan* is a popular Japanese anime and manga series. Set in a world where humanity is on the brink of extinction due to giant humanoid creatures called Titans, it follows the journey of young heroes as they fight for survival and uncover dark secrets about their world.
@@ -18,12 +18,11 @@ My First Repository
 3. **Moral Ambiguity**: The story explores the gray areas of good and evil.
 
 ### My Favorite Quote
-> "If you win, you live. If you lose, you die. If you don't fight, you can't win!" — Eren Yeager
+> "Someone who can't sacrifice anything, can't ever change anything." -Armin Arlert
 
 ### Reasons Why I Love This Show
 - The complex storyline and plot twists keep the suspense high.
 - The character development is deep and engaging.
 - It tackles thought-provoking themes about human nature and morality.
 
-### Fun Fact
-Did you know? *Attack on Titan* was inspired by the author’s fear of encountering a bear when he was younger!
+Thank you for reading, and remember to Dedicate your hearts
